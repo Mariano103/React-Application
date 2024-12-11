@@ -42,3 +42,20 @@ This is a React-based web application that allows users to manage a list of item
 
    ```bash
    git clone https://github.com/Mariano103/React-Application.git
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd React-Application
+
+3. Install the dependencies:
+
+   ```bash
+   npm install
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+
+The application will be running on http://localhost:5173.
